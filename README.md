@@ -10,7 +10,16 @@ This project demonstrates the **application of fundamental graph algorithms** to
 
 It also includes **execution time profiling and visualization** for different graph sizes to show how algorithm performance scales with input size.
 
+## 📊 Problem Summary Table
 
+| **Problem**                 | **Graph Algorithm**        | **Time Complexity** | **Application Domain** | **Notes / Insights** |
+|-----------------------------|----------------------------|---------------------|-------------------------|-----------------------|
+| Social Network Suggestion   | BFS / DFS                  | O(V + E)            | Social Media            | Suggest mutual friends |
+| Google Maps Routing         | Bellman-Ford               | O(V × E)            | Navigation              | Works with negative weights |
+| Emergency Path Planning     | Dijkstra’s                 | O(E log V)          | Disaster Response       | Fastest path in positive-weighted map |
+| Cable Installation          | MST (Prim’s / Kruskal’s)   | O(E log V)          | Infrastructure          | Minimum cable cost |
+
+---
 ### ⚙️ Technologies & Libraries Used
 
 - **Python 3.x**
@@ -105,4 +114,5 @@ You’ll see separate and combined plots comparing how time increases with node 
 Section A
 
 ---
+
 
