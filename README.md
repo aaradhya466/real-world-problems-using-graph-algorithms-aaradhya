@@ -1,5 +1,3 @@
----
-
 ## 🧮 Real-World Problems Using Graph Algorithms
 
 ### 📘 Overview
@@ -12,7 +10,6 @@ This project demonstrates the **application of fundamental graph algorithms** to
 
 It also includes **execution time profiling and visualization** for different graph sizes to show how algorithm performance scales with input size.
 
----
 
 ### ⚙️ Technologies & Libraries Used
 
@@ -108,3 +105,4 @@ You’ll see separate and combined plots comparing how time increases with node 
 Section A
 
 ---
+
