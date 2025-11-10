@@ -2,7 +2,7 @@
 
 ### 📘 Overview
 
-This project demonstrates the **application of fundamental graph algorithms** to real-world problem scenarios such as:
+This project demonstrates the **application of fundamentals graph algorithms** to real-world problem scenarios such as:
 
 * **Social Network Friend Suggestions**
 * **Shortest Path Algorithms (Bellman-Ford & Dijkstra)**
@@ -114,5 +114,6 @@ You’ll see separate and combined plots comparing how time increases with node 
 Section A
 
 ---
+
 
 
